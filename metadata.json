@@ -1,0 +1,6 @@
+{
+  "name": "Ansh",
+  "description": "An offline-capable AI assistant & system monitor with PDF scanning, device diagnostics, and local task automation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
